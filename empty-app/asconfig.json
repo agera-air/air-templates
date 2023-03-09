@@ -1,0 +1,13 @@
+{
+    "config": "air",
+    "type": "app",
+    "files": [
+        "src/Main.as"
+    ],
+    "application": "app.xml",
+    "compilerOptions": {
+        "source-path": ["src"],
+        "library-path": ["lib"],
+        "output": "build/app.swf"
+    }
+}
