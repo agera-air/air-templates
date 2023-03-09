@@ -9,3 +9,5 @@ For using them:
 
 - If you're using Visual Studio Code, simply install the ActionScript & MXML extension.
 - If you're using Node.js and want a command, install the `asconfigc` command using `npm i -g asconfigc`.
+
+For more information, look at [Create an Application](https://airsdk.dev/docs/basics/create-an-app) from the airsdk.dev site.
