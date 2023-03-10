@@ -7,7 +7,7 @@
     "application": "app.xml",
     "compilerOptions": {
         "source-path": ["src"],
-        "library-path": ["lib"],
+        "library-path": ["libs"],
         "output": "build/app.swf"
     }
 }

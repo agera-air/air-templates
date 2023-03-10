@@ -3,7 +3,7 @@
     "type": "lib",
     "compilerOptions": {
         "include-sources": ["src"],
-        "library-path": ["lib"],
+        "library-path": ["libs"],
         "output": "swc/my-lib.swc"
     }
 }
