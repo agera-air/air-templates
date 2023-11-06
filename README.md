@@ -1,8 +1,19 @@
-# Adobe AIR Templates
+# Adobe AIR Project Templates
 
-Adobe AIR has no official build system, thus this repository provides two empty projects for skipping tedious setup:
+This repository provides Adobe AIR project templates.
 
-- [empty-app](./empty-app)
-- [empty-lib](./empty-lib)
+## Creating an application
 
-For more information, look at [Create an Application](https://airsdk.dev/docs/basics/create-an-app) from the airsdk.dev site.
+To instantiate the [application template](https://github.com/airsdk-agera/air-app), run:
+
+```sh
+git clone https://github.com/airsdk-agera/air-app
+```
+
+## Creating a library
+
+To instantiate the [library template](https://github.com/airsdk-agera/air-lib), run:
+
+```sh
+git clone https://github.com/airsdk-agera/air-lib
+```
