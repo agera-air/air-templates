@@ -7,7 +7,7 @@ This repository provides Adobe AIR project templates.
 To instantiate the [application template](https://github.com/airsdk-agera/air-app), run:
 
 ```sh
-git clone https://github.com/airsdk-agera/air-app
+git clone https://github.com/agera-air/air-app
 ```
 
 ## Creating a library
@@ -15,5 +15,5 @@ git clone https://github.com/airsdk-agera/air-app
 To instantiate the [library template](https://github.com/airsdk-agera/air-lib), run:
 
 ```sh
-git clone https://github.com/airsdk-agera/air-lib
+git clone https://github.com/agera-air/air-lib
 ```
